@@ -6,10 +6,9 @@
 |Review 3|14th November 2022|Implementation and final documentation|
 
 ### Distribution of tasks
-- Introduction
-- Literature Survey
-- Software and Hardware Reqs
-- Design 
-- Use Cases
+- Introduction + Software and Hardware Reqs
+- Literature Survey 
+- Design (does this mean wireframe?)
+- Use Cases (of our app or all defi apps?)
 - Implementation
 - Final Documentation 
