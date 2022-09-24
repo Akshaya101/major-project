@@ -12,3 +12,17 @@
 - Use Cases (of our app or all defi apps?)
 - Implementation
 - Final Documentation 
+
+### Tasks
+
+1. DEVELOPMENT OF THE APPLICATION - 30/9/2022
+- [ ] Implentation
+- [ ] Design choice
+- [ ] Color Preferences
+
+2. DOCUMENTATION OF THE WORK
+- [ ] Deciding off on the topic
+- [ ] Exchange of Imformation
+- [ ] Formatting of the report
+
+**If the coding finishes off in a week, the documentation can be done in a precise manner.**
