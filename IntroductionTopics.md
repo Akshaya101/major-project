@@ -19,6 +19,7 @@ Ethereum Network
 
 ### Resources
 - [What is blockchain?](https://www.investopedia.com/terms/b/blockchain.asp)
+- [Video Explaining what Blockchain is all about](https://www.youtube.com/watch?v=HNCwbKAY7AM)
 - [What is cryptocurrency?](https://www.youtube.com/watch?v=VYWc9dFqROI)
 - [What is DeFi?](https://www.investopedia.com/decentralized-finance-defi-5113835#:~:text=Decentralized%20finance%20(DeFi)%20is%20an%20emerging%20financial%20technology%20that%20challenges,peer%2C%20or%20P2P%2C%20transactions.)
 - [What is Ethereum?](https://ethereum.org/en/learn/)
