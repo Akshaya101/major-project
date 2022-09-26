@@ -1,3 +1,3 @@
 ### Flow of Project
-- [Timelap](/Remember.md)
-- [Content](/overview.md)
+- [Checklist](/Remember.md)
+- [Introduction Topics discussed](/IntroductionTopics.md)
