@@ -6,23 +6,23 @@
 |Review 3|14th November 2022|Implementation and final documentation|
 
 ### Distribution of tasks
-- Introduction + Software and Hardware Reqs
-- Literature Survey 
-- Design (does this mean wireframe?)
-- Use Cases (of our app or all defi apps?)
-- Implementation
-- Final Documentation 
+- Introduction + Software and Hardware Reqs = Rahul + Asvitha
+- Literature Survey = Asvitha
+- Design (does this mean wireframe?) = Pearl
+- Use Cases (of our app or all defi apps?) = Pearl
+- Implementation = Akshaya
+- Final Documentation = Akshaya
 
 ### Tasks
 
-1. DEVELOPMENT OF THE APPLICATION - 30/9/2022
-- [ ] Implentation
-- [ ] Design choice
-- [ ] Color Preferences
+1. MEET 1 - 5/10/2022
+- [ ] Complete Introduction - Rough Draft
+- [ ] Literature survey
+- [ ] See if anything else needs to be included
 
-2. DOCUMENTATION OF THE WORK
-- [ ] Deciding off on the topic
-- [ ] Exchange of Imformation
-- [ ] Formatting of the report
+2. MEET 2 - 10/10/2022
+- [ ] Completed Final Introduction Document
+- [ ] Complete Literature Survey
+- [ ] Everything ready for Review 1
 
 **If the coding finishes off in a week, the documentation can be done in a precise manner.**
