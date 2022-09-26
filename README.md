@@ -1,3 +1,3 @@
 ### Flow of Project
-- [Checklist](/Remember.md)
+- [Checklist](/Checklist.md)
 - [Introduction Topics discussed](/IntroductionTopics.md)
