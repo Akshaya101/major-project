@@ -3,6 +3,7 @@
 ## Brief
 #### What is AMM?
 AMM (Automated Market Maker) protocol is an underlying protocol used by decentralised exhanges with autonomous trading mechanisms. These DEX allows users to transact their assets without any intermediary facilitating the exchange.
+
 #### What is a Market Maker?
 - Market Makers are liquidity(how quickly an asset can be bought or sold) providers. 
 - A wants Bitcoin, centralised exchange(CE) looks for someone who is selling bitcoin, say B
@@ -28,3 +29,4 @@ In AMM, anyone can be a liquidity provider if they meet the requirements stipula
 - as a liquidity provider you can get a fraction of the fees paid on transactions executed on pool.
 
 ### Applications that exist but do not do this
+Binance
