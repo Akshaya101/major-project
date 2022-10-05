@@ -16,7 +16,7 @@
 ### Tasks
 
 1. MEET 1 - 5/10/2022
-- [ ] Complete Introduction - Rough Draft
+- [ X ] Complete Introduction - Rough Draft
 - [ ] Literature survey
 - [ ] See if anything else needs to be included
 
