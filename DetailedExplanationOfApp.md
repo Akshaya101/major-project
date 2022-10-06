@@ -1,5 +1,5 @@
 
-- Here we are trying to develop an application that allows the exchange of one form of tokens to another. Such an application is called a Decentralised Exchange applications.
+- We are trying to develop an application that allows the exchange of one form of tokens to another. Such an application is called a Decentralised Exchange applications.
 - In this application we will be allowing users to convert their tokens from one form to another by not taking any fee as a platform but only costing the fee that is involved in exchange between the liquidity pool and the users.
 - Things to keep in mind are:
     - Liquidity pool is a place where all types tokens exist. Liquidity pool consits of liquidity providers, they are people who put in equal amounts of 2 types of currencies that will be involved in the transaction. 
@@ -7,7 +7,7 @@
 
 Liquidity pools are smart contracts that hold balances of two unique tokens and enforces rules around depositing and withdrawing them.
 
-Liquidity Pools here act as Automated Market Makers. Since there is no centralized authority deciding the price of certain type of currency, the price is totally dependent on the mathematical formula which calculates the value of currencies based on the amount of type of currency present in the liquidity pool.
+Liquidity Pools here act as [Automated Market Makers](./AMM.md). Since there is no centralized authority deciding the price of certain type of currency, the price is totally dependent on the mathematical formula which calculates the value of currencies based on the amount of type of currency present in the liquidity pool.
 
 ### What is Uniswap and why are we using it's protocols?
 
@@ -15,7 +15,17 @@ To develop this application we are using some of the protocols that are provided
 
 Each Uniswap smart contract, or pair, manages a liquidity pool made up of reserves of two tokens involved in a transaction.
 
+[More about Uniswap](./Uniswap.md)
+
 Anyone can become a liquidity provider and contribute to the liquidity pool but that is beyond the scope of this application.
+
+**This image shows how the app works BTS**
+
+![This image shows how the app works BTS](./images/Working.png)
+
+**How uniswap works**
+
+![How uniswap works](https://docs.uniswap.org/assets/images/anatomy-82d82239e5417e36ca9da17d14961434.jpg)
 
 ### Can you use their smart contracts? Yes.
 - We are doing so because it is tedious to build an ecosystem with such complex principles, concerning the security of currency exchange, functioning of liquidity pool, compiling and deploying of sub functionalities which are a very minute smart contracts that run along side the main smart contract. Since it is open source we can use protocols provided by uniswap as we are only going use a part of functionality provided by Uniswap inorder to develop our application.
@@ -24,10 +34,6 @@ The Uniswap ecosystem involves liquidity providers, traders. The job of
     - traders is to swap these tokens for another for a fixed fee of 0.30% fee which goes to liquidity providers
 
 Since it is open source, and already involves pool of providers, we will be using their protocols inorder to develop an application where we can exchnage one form of token with another.
-
-![This image shows how the app works BTS](./images/Working.png)
-
-![How uniswap works](https://docs.uniswap.org/assets/images/anatomy-82d82239e5417e36ca9da17d14961434.jpg)
 
 ### Main goal of our application is
 For end-users, to swap 
