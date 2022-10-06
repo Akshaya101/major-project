@@ -1,7 +1,7 @@
 ### Flow of Project
 - [Checklist](/Checklist.md)
 - [Introduction Topics discussed](/IntroductionTopics.md)
-- [According to the Report](./Test.md)
+- [According to the Senior Report](./Test.md)
 - [Software and Hardware Requirements](/SH.md)
 
 ### Reading Stuff
