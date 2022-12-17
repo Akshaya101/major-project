@@ -1,15 +1,8 @@
-### Flow of Project
-- [Checklist](/Checklist.md)
-- [Introduction Topics discussed](/IntroductionTopics.md)
-- [According to the Senior Report](./Test.md)
-- [Software and Hardware Requirements](/SH.md)
+### Resume Analyzer Application using NLP
+- [Demo Video](https://www.youtube.com/watch?v=hqu5EYMLCUw)
+- [Similar application Documentation](./RESUMEPARSER.docx)
+- [Similar application Information](https://www.pragnakalp.com/case-study/nlp-resume-parser-bert-python/#:~:text=Resume%20parser%20is%20an%20NLP,it%20on%20a%20proper%20dataset.)
 
-### Reading Stuff
-- [AMM is the name of the model/protocol given to the functionality that this application provides](./AMM.md)
-- [Uniswap is a DEX App that uses AMM model, we are replicating this](./Uniswap.md)
-- [This is currently under construction, but here I will be writing why I am using a particular tool in the app](./DetailedExplanationOfApp.md)
-
-### NOTE : 
-
-Read detailed explanation of the App for understanding what we are trying to make
-Then look at the [Intro Report Checklist](./Test.md) you may find it easier.
+### Research papers
+- [Using an Electronic Resume Analyzer Portal (eRAP) to Improve College Graduates Employability](https://eric.ed.gov/?id=EJ1258209)
+- [An automated resume screening system using NLP and Similarity](https://www.intelcomp-design.com/paper/2etit2020/2etit2020-99-103.pdf)

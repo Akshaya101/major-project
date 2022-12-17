@@ -1,0 +1,123 @@
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0736585318306324 
+
+
+
+1.  They find that blockchain technology can reduce
+transaction costs, expand transaction scope, and
+empower peer-to-peer transactions, which can
+create a new paradigm for decentralized business
+models.
+(Chen and Bellavitis, Nov 8th 2019
+"The blockchain oracle problem in decentralized fnance -
+ a multivocal approach")
+
+2.  The author show that DeFi has distinct properties
+in terms of efciency, transparency, accessibility,
+and composability. Therefore, DeFi can potentially 
+contribute to a more robust and transparent 
+fnancial infrastructure.  
+(Schär, Fabian. 2021.
+“Decentralized Finance: On Blockchain- and Smart 
+Contract-Based Financial Markets.”)
+
+3.  They suggest that DeFi can erode the accountability
+and efectiveness of traditional fnancial regulation and
+enforcement. They further emphasize
+that DeFi requires regulation in order to achieve
+its core objective of decentralization.
+(Zetzsche et al.,2017
+"Decentralized fnance")
+
+4.  The author argued that regulators should introduce
+formal registration obligations for cryptocurrency
+intermediaries. Such action will balance
+the potential benefts of trading intermediaries
+with regulatory goals of protecting investors from
+fraud, theft, misconduct and manipulation.
+(Kristin 
+N. Johnson, "Decentralized Finance: Regulating
+Cryptocurrency Exchanges", 62 Wm. & Mary L. Rev. 1911
+(2021))
+
+5.  They show that DeFi has become an important
+investment tool that investors cannot ignore, and
+that the complexity of DeFi protocols and DeFi
+coins has created a huge challenge not only for
+newcomers but also for seasoned crypto traders.
+(Kiong,2020
+,"DeFi handbook: a comprehensive guide to decentralized fnance")
+
+6.  The author fnd that DeFi can be integrated into
+Fintech products, and that large audit frms can
+help clients to interface with the DeFi ecosystem.
+Also, traditional fnancial institutions can ofer
+DeFi-enabled savings and pension accounts.
+(K N Johnson,2021
+" Decentralized finance: regulating cryptocurrency exchanges" )
+
+7.  The authors state that while the DeFi architecture
+has the potential to reduce transaction costs,
+similar to the traditional fnancial system, there
+are several layers where rents can accumulate due
+to endogenous constraints to competition. They
+show that the permissionless and pseudonymous
+design of DeFi generates challenges for enforcing
+tax compliance,anti-money laundering laws, and
+preventing fnancial malfeasance.
+(Makarov and Schoar,2021
+"Cryptocurrencies and decentralized fnance (DeFi)")
+
+8.  DeFi does not eliminate fnancial intermediation;
+rather, DeFi enables fnancial intermediation to be
+performed in new ways(Grassi et al.,2022
+"Do we still need fnancial intermediation? The case of decentralized
+fnance–DeFi.")
+
+9.  The beneft of DeFi to African countries include
+increased liquidity for SMEs, new opportunities
+to raise additional capital, it will encourage
+peerto-peer trade between individuals and corporations
+under the African continental free trade(Ozili,2022
+"Decentralized fnance and cryptocurrency activity in Africa.")
+
+10.  They conclude that blockchain ofers a better 
+alternative to the current traditional and centralized
+fnancial system due to the cost saving advantages
+and the elimination of intermediaries.(Kumar et al.,2020
+"Decentralising fnance using decentralised blockchain oracles")
+
+11.  The author defned DeFi as the provision of
+fnancial services in a decentralized environment
+enabled by blockchain technology. The author
+further explained that DeFi puts the data of all
+fnancial transactions in the hands of users and
+it is solely up to users to decide how deeply they
+process data in a blockchain environment(T Katona, 2021
+"Decentralized fnance: the possibilities of a blockchain “money lego”")
+
+12.  Te author concludes that the greatest beneft of
+DeFi is greater access to credit, and such access
+to credit may increase fnancial stability risks.(Salami,2020
+"Decentralised fnance: the case for a holistic approach to regulating the
+crypto industry")
+
+
+
+
+
+
+--Transaction cost theory (Williamson, 1979) maintains that the optimal organizational
+ structure is the one that achieves economic efficiency by minimizing the cost of 
+transactions, which include coordination costs and the cost of controlling and 
+managing the transactions and monitoring information.
+--By engaging in producing and spreading information, brokering, monitoring, providing 
+liquidity, pooling savings, risk management and other operations, financial 
+intermediation was able to reduce transaction costs and information asymmetry (Merton, 1995).
+--
+
+
+
+
